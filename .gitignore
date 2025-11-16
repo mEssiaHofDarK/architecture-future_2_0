@@ -1,3 +1,6 @@
 .idea/
 .venv/
 venv/
+.terraform/
+.terraform.lock*
+terraform.tfstate*
