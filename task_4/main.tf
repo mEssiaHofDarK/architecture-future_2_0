@@ -8,10 +8,10 @@ terraform {
 }
 
 provider "yandex" {
-  token     = "xxx"
-  cloud_id  = "xxx"
-  folder_id = "xxx"
-  zone      = "ru-central1-a"
+  token     = var.yc_token
+  cloud_id  = var.yc_cloud_id
+  folder_id = var.yc_folder_id
+  zone      = var.compute_zone
 }
 
 data "yandex_compute_image" "ubuntu" {
@@ -21,18 +21,18 @@ data "yandex_compute_image" "ubuntu" {
 resource "yandex_compute_disk" "testvm" {
   name = "test-vm-disk"
   type = "network-ssd"
-  zone = "ru-central1-a"
+  zone = var.compute_zone
   image_id = data.yandex_compute_image.ubuntu.image_id
   size = 15
 }
 
 resource "yandex_compute_instance" "testvm" {
   name = "test-vm"
-  zone = "ru-central1-a"
+  zone = var.compute_zone
 
   resources {
-    cores  = 2
-    memory = 2
+    cores  = var.vm_cores
+    memory = var.vm_mem
   }
 
   boot_disk {
@@ -40,7 +40,7 @@ resource "yandex_compute_instance" "testvm" {
   }
 
   network_interface {
-    subnet_id = "xxx"
+    subnet_id = var.subnet_id
     nat       = true
   }
 
