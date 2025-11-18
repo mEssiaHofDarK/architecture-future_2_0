@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="8unGcfhzbQCpLVjFfukb">
+    <mxGraphModel dx="3967" dy="2822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-12" value="Языки и фреймворки&lt;br&gt;HOLD&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks;&quot;&gt;Power Builder (1)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve-breaks;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;ASSESS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TRIAL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ADOPT&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks;&quot;&gt;Python (2)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve;&quot;&gt;Golang (3)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve;&quot;&gt;SpringBoot (4)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=18;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="-580" y="-200" width="470" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-13" value="&lt;font style=&quot;&quot;&gt;Хранилища&lt;br&gt;HOLD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve-breaks; font-family: &amp;quot;YS Text&amp;quot;, sans-serif;&quot;&gt;Microsoft SQL-сервера 2008 года (5)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;ASSESS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;MinIO (6)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;MongoDB (7)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;TRIAL&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;ADOPT&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Postgres (8)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Redis (9)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Clickhouose (10)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=18;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="-580" y="900" width="470" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-14" value="Управление данными&lt;br&gt;HOLD&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks;&quot;&gt;Apache Camel (11)&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ASSESS&lt;/div&gt;&lt;div&gt;airflow (12)&lt;/div&gt;&lt;div&gt;spark (13)&lt;/div&gt;&lt;div&gt;iceberg (14)&lt;/div&gt;&lt;div&gt;hive (15)&lt;/div&gt;&lt;div&gt;datalense (16)&lt;/div&gt;&lt;div&gt;superset (17)&lt;/div&gt;&lt;div&gt;kafka (18)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TRIAL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ADOPT&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks;&quot;&gt;Power BI (19)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=18;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="1340" y="-200" width="470" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-15" value="Инфра&lt;br&gt;HOLD&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ASSESS&lt;/div&gt;&lt;div&gt;Victoria-stack (20)&lt;/div&gt;&lt;div&gt;ELK (21)&lt;br&gt;OLK (22)&lt;br&gt;Jaeger (23)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TRIAL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ADOPT&lt;/div&gt;&lt;div&gt;Docker (24)&lt;/div&gt;&lt;div&gt;Kubernates (25)&lt;/div&gt;&lt;div&gt;Helm (26)&lt;/div&gt;&lt;div&gt;prometheus (27)&lt;/div&gt;&lt;div&gt;nginx (28)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="900" width="470" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-40" width="1285" height="1285" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry width="1285" height="1285" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2020px%3B%26quot%3B%26gt%3B1%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2290%22%20y%3D%22350%22%20width%3D%2240%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="177.5" y="182.5" width="920" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="317.5" y="322.5" width="640" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="447.5" y="447.5" width="390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="bxTjHY5atcFR7uEkTHPq-17" source="bxTjHY5atcFR7uEkTHPq-4" target="bxTjHY5atcFR7uEkTHPq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1067.5" y="952.5" as="sourcePoint" />
+            <mxPoint x="1117.5" y="902.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bxTjHY5atcFR7uEkTHPq-17" source="bxTjHY5atcFR7uEkTHPq-4" target="bxTjHY5atcFR7uEkTHPq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1067.5" y="952.5" as="sourcePoint" />
+            <mxPoint x="1117.5" y="902.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-7" value="ADOPT" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="552.5" y="482.5" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-9" value="TRIAL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="552.5" y="342.5" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-10" value="ASSESS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="552.5" y="202.5" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-11" value="HOLD" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="552.5" y="42.5" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="130" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="540" y="500" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="580" y="590" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;12&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="720" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;17&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="980" y="542.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;18&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="1040" y="590" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;25&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="720" y="660" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;26&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="750" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-46" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;28&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bxTjHY5atcFR7uEkTHPq-17">
+          <mxGeometry x="660" y="760" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="580" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="900" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;7&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="990" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;8&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;9&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="780" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;10&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;11&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;13&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;14&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;15&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;16&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="490" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;19&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="580" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-38" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;20&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1010" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;21&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="970" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;22&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="910" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;23&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="810" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;24&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2020px%3B%26quot%3B%26gt%3B1%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2290%22%20y%3D%22350%22%20width%3D%2240%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;27&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-47" value="&lt;div&gt;ADOPT&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Языки разработки&lt;/div&gt;&lt;div&gt;Python&lt;/div&gt;&lt;div&gt;→ ИИ-сервисы, обработка медданных, ETL/ELT, интеграционные утилиты, backend для аналитики.&lt;/div&gt;&lt;div&gt;Golang&lt;/div&gt;&lt;div&gt;→ Высоконагруженные финтех-сервисы, интеграции с банком, API-шлюзы, потоковая обработка.&lt;/div&gt;&lt;div&gt;Spring Boot (Java)&lt;/div&gt;&lt;div&gt;→ Корпоративные сервисы, сложные бизнес-процессы, банковские модули, регуляторные сервисы.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Хранилища данных&lt;/div&gt;&lt;div&gt;Postgres&lt;/div&gt;&lt;div&gt;→ Транзакционные сервисы, финмодули, CRM-часть клиник, операционные данные.&lt;/div&gt;&lt;div&gt;Redis&lt;/div&gt;&lt;div&gt;→ Кеши для высоконагруженных API, сессии, rate-limit, очереди.&lt;/div&gt;&lt;div&gt;ClickHouse&lt;/div&gt;&lt;div&gt;→ Быстрая аналитика, витрина данных, финансовая отчётность, операционные метрики.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Управление данными&lt;/div&gt;&lt;div&gt;Power BI&lt;/div&gt;&lt;div&gt;→ Отчётность подразделений, дашборды для клиник/финансов, витрина данных self-service (временем).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Инфраструктура&lt;/div&gt;&lt;div&gt;Docker&lt;/div&gt;&lt;div&gt;→ Унификация билдов сервисов (медицина, финтех, ИИ).&lt;/div&gt;&lt;div&gt;Kubernetes&lt;/div&gt;&lt;div&gt;→ Оркестрация сервисов, масштабирование доменов, облачные среды.&lt;/div&gt;&lt;div&gt;Helm&lt;/div&gt;&lt;div&gt;→ Управление CI/CD чартами, версионирование окружений.&lt;/div&gt;&lt;div&gt;Prometheus&lt;/div&gt;&lt;div&gt;→ Мониторинг клиник, сервисов банка, ИИ-инференса, оборудования.&lt;/div&gt;&lt;div&gt;Nginx&lt;/div&gt;&lt;div&gt;→ Балансировка API, маршрутизация доменных сервисов, API-шлюз (частично).&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="-300" width="1420" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-48" value="&lt;div&gt;ASSESS&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Хранилища&lt;/div&gt;&lt;div&gt;MinIO&lt;/div&gt;&lt;div&gt;→ Холодное хранение, lakehouse, хранение диагностических файлов, результатов ИИ-моделей.&lt;/div&gt;&lt;div&gt;MongoDB&lt;/div&gt;&lt;div&gt;→ Документные данные: профили оборудования, структуры мед-исследований, нестрогие схемы интеграций.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Управление данными&lt;/div&gt;&lt;div&gt;Airflow&lt;/div&gt;&lt;div&gt;→ Оркестрация ELT/ML-пайплайнов, загрузки в витрину данных, обучение моделей.&lt;/div&gt;&lt;div&gt;Spark&lt;/div&gt;&lt;div&gt;→ Обработка больших массивов мед/фин данных, построение фичей, распределённые пайплайны.&lt;/div&gt;&lt;div&gt;Iceberg&lt;/div&gt;&lt;div&gt;→ Табличный слой в lakehouse: доменные хранилища, версионирование данных.&lt;/div&gt;&lt;div&gt;Hive&lt;/div&gt;&lt;div&gt;→ Историческое хранилище для больших объёмов, совместимость с legacy-форматами.&lt;/div&gt;&lt;div&gt;DataLens&lt;/div&gt;&lt;div&gt;→ Быстрая BI-аналитика для внутренних команд, дешёвые дашборды.&lt;/div&gt;&lt;div&gt;Superset&lt;/div&gt;&lt;div&gt;→ Лёгкие визуализации и дешёвый self-service без лицензий.&lt;/div&gt;&lt;div&gt;Kafka&lt;/div&gt;&lt;div&gt;→ Событийная шина: новые домены, интеграции банка, потоковые данные с оборудования и ИИ-моделей.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Инфраструктура&lt;/div&gt;&lt;div&gt;VictoriaMetrics Stack&lt;/div&gt;&lt;div&gt;→ Мониторинг распределённых систем, метрики ИИ-инференса, IoT-оборудования.&lt;/div&gt;&lt;div&gt;ELK&lt;/div&gt;&lt;div&gt;→ Аудит логов клиник, банковских сервисов, трассировка ошибок.&lt;/div&gt;&lt;div&gt;OLK (OpenSearch/Logstash/Kibana)&lt;/div&gt;&lt;div&gt;→ Альтернатива ELK для централизованного логирования.&lt;/div&gt;&lt;div&gt;Jaeger&lt;/div&gt;&lt;div&gt;→ Трассировка распределённых запросов в доменной архитектуре.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="950" width="1420" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="bxTjHY5atcFR7uEkTHPq-49" value="&lt;div&gt;HOLD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Хранилища&lt;/div&gt;&lt;div&gt;Microsoft SQL Server 2008&lt;/div&gt;&lt;div&gt;→ Старый DWH и sql логика. Главная цель — миграция на новые доменные хранилища и lakehouse.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Управление данными&lt;/div&gt;&lt;div&gt;Apache Camel&lt;/div&gt;&lt;div&gt;→ Старая шина. Заменяем на Kafka + API-gateway.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="3250" y="-300" width="1420" height="1050" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
